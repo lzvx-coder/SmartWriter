@@ -1,9 +1,8 @@
-# 文档校对系统 (Doc Correction System)
+# 智能文档与写作助手
 
 ## 项目简介
 
-这是一个基于 Flask 后端和 Vite + React 前端的文档校对系统，使用智谱AI进行文档内容审核和校对。
-
+这是一个基于 Flask 后端和 Vite + React 前端的智能文档与写作助手
 ## 技术栈
 
 ### 后端
